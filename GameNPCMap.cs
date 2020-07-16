@@ -42,7 +42,7 @@ namespace Swizilla
         // More NPC mappings here.
       };
 
-    static void Main(string[] args)
+    static void _Main(string[] args)
     {
       string playerRace = "orc";
       string interactedNPC = "dwarf";

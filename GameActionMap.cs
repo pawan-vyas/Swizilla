@@ -44,7 +44,7 @@ namespace Swizilla
           { "inventory", OpenInventory }
       };
 
-    static void Main(string[] args)
+    static void _Main(string[] args)
     {
       Console.Write("Enter name of action to perform: ");
 

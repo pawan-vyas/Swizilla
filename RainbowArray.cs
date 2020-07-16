@@ -3,7 +3,7 @@ namespace Swizilla
 {
     class RainbowArray
     {
-        static void Main(string[] args)
+        static void _Main(string[] args)
         {
             // Define an array which contains color positions.
             string[] rainbowColors = { "unknown", "Red", "Orange", "Yellow",

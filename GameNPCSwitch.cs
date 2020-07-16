@@ -3,7 +3,7 @@ namespace Swizilla
 {
   class GameNPCSwitch
   {
-    static void Main(string[] args)
+    static void _Main(string[] args)
     {
       // Defines race type of the player.
       string playerRace = "orc";

@@ -3,7 +3,7 @@ namespace Swizilla
 {
   class VideoGameSwitch
   {
-    static void Main(string[] args)
+    static void _Main(string[] args)
     {
       Console.Write("Enter Key Code to get its Action Name: ");
 

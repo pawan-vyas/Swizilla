@@ -4,7 +4,7 @@ namespace Swizilla
 {
   class VideoGameMap
   {
-    static void Main(string[] args)
+    static void _Main(string[] args)
     {
       // Defining code to action map.
       var codeActionMap = new Dictionary<int, string>()

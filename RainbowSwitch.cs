@@ -3,7 +3,7 @@ namespace Swizilla
 {
     class RainbowSwitch
     {
-        static void Main(string[] args)
+        static void _Main(string[] args)
         {
             Console.Write("Mention position(1 to 7) in the Rainbow to get the color: ");
             
