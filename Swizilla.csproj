@@ -49,6 +49,7 @@
     <Compile Include="GameActionMap.cs" />
     <Compile Include="GameActionSwitch.cs" />
     <Compile Include="GameNPCMap.cs" />
+    <Compile Include="GameNPCMessagePassing.cs" />
     <Compile Include="GameNPCSwitch.cs" />
     <Compile Include="VideoGameMap.cs" />
     <Compile Include="VideoGameSwitch.cs" />

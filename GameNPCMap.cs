@@ -8,7 +8,7 @@ namespace Swizilla
     void Fight(string playerRace);
   }
 
-  class DwarfGateLord : INonPlayableCharacter
+  partial class DwarfGateLord : INonPlayableCharacter
   {
     public void Diplomacy(string playerRace)
     {
