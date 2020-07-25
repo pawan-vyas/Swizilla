@@ -51,6 +51,9 @@
     <Compile Include="GameNPCMap.cs" />
     <Compile Include="GameNPCMessagePassing.cs" />
     <Compile Include="GameNPCSwitch.cs" />
+    <Compile Include="LevelLoadDynamic.cs" />
+    <Compile Include="LevelLoadMapNew.cs" />
+    <Compile Include="LevelLoadSwitchNew.cs" />
     <Compile Include="VideoGameMap.cs" />
     <Compile Include="VideoGameSwitch.cs" />
     <Compile Include="RainbowArray.cs" />
@@ -59,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Levels.doom" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

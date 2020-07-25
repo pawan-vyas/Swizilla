@@ -51,7 +51,7 @@ namespace Swizilla
         // objects in this map.
       };
 
-    static void Main(string[] args)
+    static void _Main(string[] args)
     {
       string playerRace = "khajiit";
       string interactedNPC = "dwarf";
